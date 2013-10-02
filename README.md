@@ -1,4 +1,9 @@
-# Tool to generate sprite images.
+=======
+sprites-generator
+=================
+
+Tool to generate sprite images
+
 
 ## Usage
 
