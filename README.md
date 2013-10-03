@@ -2,7 +2,7 @@
 sprites-generator
 =================
 
-Tool to generate sprite images
+Tool to generate sprite images.
 
 
 ## Usage
@@ -22,8 +22,17 @@ Enjoy!
 ## Installation
 
 ```
-npm install sprites-generator
+npm install -g sprites-generator
 ```
+
+## Requirements
+
+Requires [ImageMagick](http://www.imagemagick.org), available via HomeBrew (`$ sudo brew install ImageMagick`) or MacPorts: (`$ sudo port install ImageMagick`).
+
+## Notes
+
+Based on [node-spritesheet](https://raw.github.com/richardbutler/node-spritesheet)
+
 
 
 
